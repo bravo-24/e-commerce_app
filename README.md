@@ -1,16 +1,7 @@
 # e_commerce
 
-A new Flutter project.
+E-Commerce App UI Design with Flutter and Figma
 
-## Getting Started
+You can observe to predesign process in Figma
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![vcxcvxvc](https://user-images.githubusercontent.com/105917287/184547099-228d0ec3-0d9e-49aa-92c8-a1722448f724.PNG)
